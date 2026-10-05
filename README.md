@@ -277,12 +277,3 @@ The Phase 1 system was verified using:
 - Wireshark packet captures for DNS, TCP, and TLS
 - DNS failure demonstration using an incorrect DNS server
 
-## Phase 1 Demo
-
-The required Phase 1 demonstration video is submitted through the project form using the team's Google Drive link.
-
-Video filename format:
-
-```text
-CN_Phase1_[Section]_[TeamName]_[InfraType].mp4
-```
