@@ -16,9 +16,10 @@ The Phase 1 infrastructure consists of:
 
 ## Team Members
 
-- Kushagra
+- Kush Puri
 - Aadit Vachher
-- [Add remaining team member names here]
+- Aabir Sarkar
+- Kushagra Maheshwari
 
 ## Network Architecture
 
